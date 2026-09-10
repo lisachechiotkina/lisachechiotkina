@@ -20,9 +20,7 @@
 
 ### 📊 Моя статистика GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisachechiotkina&show_icons=true&theme=radical&locale=ru)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisachechiotkina&layout=compact&theme=radical&locale=ru)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisachechiotkina&show_icons=true&theme=radical)](https://github.com/lisachechiotkina)
 
 ---
 
