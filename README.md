@@ -4,7 +4,7 @@
 Учусь на 2 курсе по направлению **«Прикладная информатика»**.  
 Сейчас активно изучаю **C++** и **веб-разработку**.
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" />
 
 ---
 
