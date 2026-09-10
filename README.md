@@ -18,13 +18,7 @@
 
 ---
 
-### 📊 Моя статистика GitHub:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lisachechiotkina&show_icons=true&theme=radical)](https://github.com/lisachechiotkina)
-
----
-
-### 📬 Как со мной связаться:
+###  Как со мной связаться:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@wwwlizza)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisachechiotkina@gmail.com)
