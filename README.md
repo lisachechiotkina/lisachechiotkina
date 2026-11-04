@@ -20,7 +20,7 @@
 
 ---
 
-### 🎓 обо мне
+###  обо мне
 
 - ✌🏼 Учусь на 2 курсе по направлению «Прикладная информатика».
 - 💻 Сейчас активно изучаю C++ и веб-разработку.
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 стек
+###  стек
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-8B7355?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -39,7 +39,7 @@
 
 ---
 
-### 👀 мои посетители
+### 👀  мои посетители
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lisachechiotkina&color=D9CBB8&style=flat-square" alt="Visitor Count" />
