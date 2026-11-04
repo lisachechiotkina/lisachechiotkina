@@ -1,8 +1,10 @@
-<h1 align="center">Привет, я Лиза 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5EFE6&height=150&section=header&text=lisachechiotkina&fontSize=50&fontColor=8B7355&animation=fadeIn" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B7355&center=true&vCenter=true&width=500&lines=Привет,+я+Лиза;Студентка+2+курса;Изучаю+C%2B%2B+и+веб" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B7355&center=true&vCenter=true&width=500&lines=Привет,+я+Лиза;Студентка+2+курса;Изучаю+C%2B%2B+и+веб" alt="Typing SVG" />
   </a>
 </p>
 
