@@ -10,6 +10,13 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Котик" />
 </p>
 
+<p align="center">
+  <a href="https://t.me/wwwlizza>
+    <img src="https://img.shields.io/badge/Telegram-8B7355?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:lisachechiotkina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B7355?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 ---
 
 ### 🎓 обо мне
