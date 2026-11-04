@@ -1,6 +1,12 @@
 <h1 align="center">Привет, я Лиза 👋</h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B7355&center=true&vCenter=true&width=500&lines=Привет,+я+Лиза;Студентка+2+курса;Изучаю+C%2B%2B+и+веб" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Котик" />
 </p>
 
