@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5EFE6&height=150&section=header&text=lisachechiotkina&fontSize=50&fontColor=8B7355&animation=fadeIn" width="100%" />
-</p>
+<h1 align="center">Liza Chechiotkina</h1>  
 
 <p align="center">
   <a href="https://git.io/typing-svg">
