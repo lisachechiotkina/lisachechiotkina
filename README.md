@@ -25,14 +25,6 @@
 
 ---
 
-### 📊 Моя статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisachechiotkina&layout=compact&bg_color=F5EFE6&title_color=8B7355&text_color=6B5B4E&border_color=D9CBB8" alt="Top Languages" />
-</p>
-
----
-
 ### 👀 Мои посетители
 
 <p align="center">
